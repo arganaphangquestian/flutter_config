@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>972520627717-6vhn13aikn31iu4k2789vcm5km880e0e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.972520627717-6vhn13aikn31iu4k2789vcm5km880e0e</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCxrAg6fEPtIG9W-m5ojNHw2SgAzS3J8B4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>972520627717</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>dev.arganaphang.config</string>
+	<key>PROJECT_ID</key>
+	<string>flutternotif-c1041</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutternotif-c1041.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:972520627717:ios:a75e6c6e707ca086acc66c</string>
+</dict>
+</plist>

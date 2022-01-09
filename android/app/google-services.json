@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "972520627717",
+    "project_id": "flutternotif-c1041",
+    "storage_bucket": "flutternotif-c1041.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972520627717:android:38acfeec56f795a7acc66c",
+        "android_client_info": {
+          "package_name": "dev.arganaphang.config"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972520627717-nf04oss18qtaep9vf0igvhmj6mkphg5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqj4K0seYYSA64UHKuo7lA1ec27Yd5AXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972520627717-nf04oss18qtaep9vf0igvhmj6mkphg5g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "972520627717-6vhn13aikn31iu4k2789vcm5km880e0e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dev.arganaphang.config"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972520627717:android:cf7d0c42660f985bacc66c",
+        "android_client_info": {
+          "package_name": "dev.arganaphangquestia.mobile_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972520627717-nf04oss18qtaep9vf0igvhmj6mkphg5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqj4K0seYYSA64UHKuo7lA1ec27Yd5AXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972520627717-nf04oss18qtaep9vf0igvhmj6mkphg5g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "972520627717-6vhn13aikn31iu4k2789vcm5km880e0e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dev.arganaphang.config"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972520627717:android:50c49797d78bee69acc66c",
+        "android_client_info": {
+          "package_name": "dev.arganaphangquestian.notif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972520627717-nf04oss18qtaep9vf0igvhmj6mkphg5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqj4K0seYYSA64UHKuo7lA1ec27Yd5AXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972520627717-nf04oss18qtaep9vf0igvhmj6mkphg5g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "972520627717-6vhn13aikn31iu4k2789vcm5km880e0e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dev.arganaphang.config"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
